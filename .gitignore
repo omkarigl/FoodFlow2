@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+*.pid
+.DS_Store
+*.log
+coverage/
+client/.vite/
